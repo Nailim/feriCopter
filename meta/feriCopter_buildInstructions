@@ -1,0 +1,16 @@
+Build instructions:
+
+step #00: Make sure all the necessary components are prepared.
+step #01: Loop and press the "landing gear" zip-ties in to the cut-out, then cut them flush with the frame.
+step #02: Screw the motor mounts using M3 screws, covering the landing gear "zip-ties".
+step #03: Insert the power-board, aligning the battery connector with the cutout in the frame, then pas the wires leading from the board trough the ready made holes.
+step #04: Screw the power-board in place with M3 screws and secure the battery connector with a zip-tie looped trough the adjacent holes.
+step #05: Screw in the motors, then pass the wires leading from the motors trough the cutout next to the mount.
+step #06: Connect the ESC with the motor wires, then fold the ESC with the wires under the motor mount, securing it with the zip-tie looped around the motor mount trough the provided notches.
+step #07: Connect the ESC power wires with the wires from the power-board.
+step #08: Loop the Velcro strip over the power-board trough the cut outs in the frame.
+step #09: Insert the STM32F3Discovery dev board under the hinges on the front part of the frame and push it down untill the board sits level and latches on the back part of the frame.
+step #10: Secure the board with two zip-ties, connected in a loop, trough provided notches at the bottom back part of the frame.
+step #11: Mount the receiver on the front of the frame and secure it with zip-ties.
+step #12: Attach the receiver antennas to the ends of the zip-ties used to secure the STM32F3Discovery board.
+step #13: Connect the receiver and ESCs to the STM32F3Discovery board, then secure and connect the battery.
