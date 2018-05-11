@@ -8,5 +8,5 @@ Assembly video for the project can be found on [YouTube](https://youtu.be/s-TGnO
 # Content
 - `blender/` - 3D model of the frame
 - `meta/` - FreeCAD project for the documentation/assembly handout
-- `stl/` - 3D printer ready stl files
+- `stl/` - 3D printer ready STL files
 - `feriCopter_assembly.pdf` - documentation/assembly handout
