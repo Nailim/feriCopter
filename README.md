@@ -1,4 +1,4 @@
-# feriCopterV1
+# feriCopter
 
 Model and 3D printing resources for student project.
 
